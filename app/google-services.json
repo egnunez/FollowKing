@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293214663619",
+    "project_id": "followking-67cc3",
+    "storage_bucket": "followking-67cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293214663619:android:c84572b6837a623a4a8376",
+        "android_client_info": {
+          "package_name": "com.jen.followking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293214663619-p9e2g4udd8tndrq9hb2aupnvu5i0eghg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxCNCJYbu4hdgtWtDGipJ52jJOCGsNGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293214663619-p9e2g4udd8tndrq9hb2aupnvu5i0eghg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
